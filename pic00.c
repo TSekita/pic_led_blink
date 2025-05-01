@@ -1,6 +1,5 @@
 /* 
- * File:   main.c
- * Author: yfe36
+ * File:   pic00.c
  *
  * Created on April 30, 2025, 2:05 PM
  */
